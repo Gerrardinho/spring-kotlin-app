@@ -1,0 +1,3 @@
+INSERT INTO KOTLIN_APP.FOOTBALLER(NAME, NICKNAME, BIRTH_DATE, BIRTH_PLACE, PLAYING_POSITION)VALUES ('Ronaldo Luís Nazário de Lima', 'El Fenómeno', '1976-9-18', 'Rio de Janeiro, Brazil', 'Striker');
+INSERT INTO KOTLIN_APP.FOOTBALLER(NAME, NICKNAME, BIRTH_DATE, BIRTH_PLACE, PLAYING_POSITION)VALUES ('Ricardo Izecson dos Santos Leite', 'Kaká', '1982-4-22', 'Federal District, Brazil', 'Attacking midfielder');
+INSERT INTO KOTLIN_APP.FOOTBALLER(NAME, NICKNAME, BIRTH_DATE, BIRTH_PLACE, PLAYING_POSITION)VALUES ('Eden Michael Hazard', 'El Duque', '1991-1-7', 'La Louvière, Belgium', 'Attacking midfielder');
